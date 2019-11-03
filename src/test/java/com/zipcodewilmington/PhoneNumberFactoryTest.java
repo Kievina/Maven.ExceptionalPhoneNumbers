@@ -62,7 +62,6 @@ public class PhoneNumberFactoryTest {
         Assert.assertEquals(phoneNumber.getCentralOfficeCode(), centralOfficeCode.toString());
     }
 
-
     @Test
     public void testPhoneLineCode() {
         // : Given
